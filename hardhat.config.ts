@@ -44,7 +44,7 @@ const config: HardhatUserConfig = {
   },
   etherscan: {
     apiKey: {
-      arbitrum: ETHERSCAN_ARBITRUM,
+      arbitrumOne: ETHERSCAN_ARBITRUM,
       arbitrumGoerli: ETHERSCAN_ARBITRUM,
     },
   },

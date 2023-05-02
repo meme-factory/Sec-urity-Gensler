@@ -3,10 +3,9 @@
 }
 
 .App-logo {
-  height: 100vmin;
+  width: 100vmin;
   pointer-events: none;
-  position: fixed;
-  }
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
